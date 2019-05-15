@@ -1,0 +1,11 @@
+{
+  "name": "metalsmith-xmp-reader",
+  "version": "1.0.0",
+  "description": "A small lib to read xmp metadata in jpg files using xmp-reader.",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "minimatch": "^3.0.4",
+    "xmp-reader": "^0.0.3"
+  }
+}
